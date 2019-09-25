@@ -1,6 +1,6 @@
 ## Simplifiez le développement d'applications Java avec Spring
 
-Ceci est le dépôt associé au cours
+Ceci est un dépôt récupéré afin de suivre le cours 
 [_Simplifiez le développement d'applications Java avec Spring_](https://openclassrooms.com/courses/simplifiez-le-developpement-dapplications-java-avec-spring)
 sur [_OpenClassrooms_](https://www.openclassrooms.com).
 
